@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_chime.mk
+    $(LOCAL_DIR)/blaze_chime.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_chime-user \
-    aosp_chime-userdebug \
-    aosp_chime-eng
+    blaze_chime-user \
+    blaze_chime-userdebug \
+    blaze_chime-eng
