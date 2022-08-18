@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/blaze_chime.mk
+    $(LOCAL_DIR)/arrow_chime.mk
 
 COMMON_LUNCH_CHOICES := \
-    blaze_chime-user \
-    blaze_chime-userdebug \
-    blaze_chime-eng
+    arrow_chime-user \
+    arrow_chime-userdebug \
+    arrow_chime-eng
